@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\Numberphile\\Numberphile\\Numberphile.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Documents\\Numberphile\\Numberphile\\Numberphile\\Numberphile.csproj",
       "projectName": "Numberphile",
-      "projectPath": "C:\\Users\\Bruger\\source\\repos\\Numberphile\\Numberphile\\Numberphile.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Documents\\Numberphile\\Numberphile\\Numberphile\\Numberphile.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\source\\repos\\Numberphile\\Numberphile\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Documents\\Numberphile\\Numberphile\\Numberphile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

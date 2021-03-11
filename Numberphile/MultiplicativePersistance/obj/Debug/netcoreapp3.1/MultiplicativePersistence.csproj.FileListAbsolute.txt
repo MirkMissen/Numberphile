@@ -1,0 +1,12 @@
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\bin\Debug\netcoreapp3.1\MultiplicativePersistence.deps.json
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\bin\Debug\netcoreapp3.1\MultiplicativePersistence.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\bin\Debug\netcoreapp3.1\MultiplicativePersistence.pdb
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.AssemblyInfo.cs
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.csproj.CopyComplete
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\MultiplicativePersistance\obj\Debug\netcoreapp3.1\MultiplicativePersistence.pdb

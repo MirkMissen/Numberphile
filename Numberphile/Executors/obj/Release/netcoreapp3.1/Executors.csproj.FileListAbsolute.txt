@@ -1,0 +1,14 @@
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Executors.deps.json
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Executors.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Executors.pdb
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Algorithms.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Utilities.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Algorithms.pdb
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\bin\Release\netcoreapp3.1\Utilities.pdb
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.AssemblyInfo.cs
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.csproj.CopyComplete
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.dll
+C:\Users\Bruger\Documents\Numberphile\Numberphile\Executors\obj\Release\netcoreapp3.1\Executors.pdb
